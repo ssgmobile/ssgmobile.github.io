@@ -5,9 +5,9 @@ Thank you for taking the time to do our technical test. It consists of two parts
 - Developing a small Android application.
 - A few technical questions.
 
-Please submit your work by uploading the relevant ZIP file to <LINK TO UPLOAD>
-Please make this a single zip file named {yourname}-{role-applied-for}.zip containing:
+Please submit your work by uploading the relevant ZIP file to [GET UPLOAD LINK FROM MARTIN]().
 
+Please make this a single zip file named {yourname}-{android-developer}.zip containing:
 - a single markdown file with the answers to the technical questions
 - one folder containing your Android Studio project & source code.
 
@@ -49,6 +49,7 @@ Acceptance Criteria:
 **Given** I am seeing the details of a room
 **When** I tap back
 **Then** I can see the list of rooms again
+```
 
 ### Technical questions
 
