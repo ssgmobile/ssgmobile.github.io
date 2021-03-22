@@ -43,7 +43,7 @@ Try to ensure the following requirements have been met but spend no more than 2 
  
 **Given** I tap on one of the rooms
 **Then** I can see the details of the room, including the main image as an hero image, its friendly name, location, capacity, equipment, features and services
-**And** I can see the images that represent each features and/or service.
+**And** I can see the icons that represent each facility offered by the room.
  
 **Given** I am seeing the details of a room
 **When** I tap back
