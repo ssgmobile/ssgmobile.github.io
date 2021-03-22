@@ -1,0 +1,92 @@
+{
+   "key":"345",
+   "name":"Meeting Room B2",
+   "heroImageUrl":"https://www.smartspaceglobal.com/img/MeetingRoom2.jpg",
+   "capacity":30,
+   "location":{
+      "region":{
+         "key":"123",
+         "name":"Hong Kong"
+      },
+      "site":{
+         "key":"234",
+         "name":"Hong Kong Exchange Square"
+      },
+      "building":{
+         "key":"456",
+         "name":"Two International Finance Centre"
+      },
+      "floor":{
+         "key":"567",
+         "name":"Floor 12"
+      }
+   },
+   "features":[
+      {
+         "key":"513",
+         "name":"Folding Wall",
+         "iconUrl":null
+      },
+      {
+         "key":"514",
+         "name":"Natural Light",
+         "iconUrl":null
+      },
+      {
+         "key":"515",
+         "name":"Virtual MR",
+         "iconUrl":null
+      }
+   ],
+   "services":[
+      {
+         "key":"302",
+         "name":"Catering",
+         "iconUrl":null
+      }
+   ],
+   "facilities":[
+      {
+         "key":"611",
+         "name":"Audio",
+         "iconUrl":null
+      },
+      {
+         "key":"612",
+         "name":"Control Panel",
+         "iconUrl":null
+      },
+      {
+         "key":"613",
+         "name":"Flipchart",
+         "iconUrl":null
+      },
+      {
+         "key":"614",
+         "name":"TV Set",
+         "iconUrl":null
+      }
+   ],
+   "equipment":[
+      {
+         "key":"711",
+         "name":"Cisco Monitor",
+         "iconUrl":null
+      },
+      {
+         "key":"712",
+         "name":"Conference Calling",
+         "iconUrl":null
+      },
+      {
+         "key":"713",
+         "name":"Printer",
+         "iconUrl":null
+      },
+      {
+         "key":"714",
+         "name":"Projector",
+         "iconUrl":null
+      }
+   ]
+}
