@@ -1,27 +1,28 @@
 {
-	"rooms": [{
-			"key": "123",
-			"name": "Meeting Room A1",
-			"thumbnailUrl": "https://www.smartspaceglobal.com/img/MeetingRoom1_Thumbnail.JPG",
-			"capacity": 24
-		},
-		{
-			"key": "345",
-			"name": "Meeting Room B2",
-			"thumbnailUrl": "https://www.smartspaceglobal.com/img/MeetingRoom2_Thumbnail.JPG",
-			"capacity": 30
-		},
-		{
-			"key": "456",
-			"name": "Meeting Room C3",
-			"thumbnailUrl": "https://www.smartspaceglobal.com/img/MeetingRoom3_Thumbnail.JPG",
-			"capacity": 65
-		},
-		{
-			"key": "567",
-			"name": "Meeting Room D4",
-			"thumbnailUrl": "https://www.smartspaceglobal.com/img/MeetingRoom4_Thumbnail.JPG",
-			"capacity": 4
-		}
-	]
+   "rooms":[
+      {
+         "key":"123",
+         "name":"Meeting Room A1",
+         "thumbnailUrl":"https://www.smartspaceglobal.com/img/MeetingRoom1_Thumbnail.JPG",
+         "capacity":24
+      },
+      {
+         "key":"345",
+         "name":"Meeting Room B2",
+         "thumbnailUrl":"https://www.smartspaceglobal.com/img/MeetingRoom2_Thumbnail.JPG",
+         "capacity":30
+      },
+      {
+         "key":"456",
+         "name":"Meeting Room C3",
+         "thumbnailUrl":"https://www.smartspaceglobal.com/img/MeetingRoom3_Thumbnail.JPG",
+         "capacity":65
+      },
+      {
+         "key":"567",
+         "name":"Meeting Room D4",
+         "thumbnailUrl":"https://www.smartspaceglobal.com/img/MeetingRoom4_Thumbnail.JPG",
+         "capacity":4
+      }
+   ]
 }
