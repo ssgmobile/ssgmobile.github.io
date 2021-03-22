@@ -2,26 +2,25 @@
 
 Thank you for taking the time to do our technical test. It consists of two parts:
 
-- Developing a small Android application.
-- A few technical questions.
+- [Create a small Android application](#create-a-small-android-application)
+- [A few technical questions](#technical-questions)
 
-Please submit your work by uploading the relevant ZIP file to [GET UPLOAD LINK FROM MARTIN]().
-
-Please make this a single zip file named {yourname}-{android-developer}.zip containing:
+Please submit your work by uploading a single zip file named {yourname}-{android-developer}.zip to [GET UPLOAD LINK FROM MARTIN]().
+The zip file should contain:
 - a single markdown file with the answers to the technical questions
 - one folder containing your Android Studio project & source code.
 
-# Developing a small Android application
+# Create a small Android application
 
 Smartspace Global has a set of mock APIs that you will use to get information about a list of Meeting Rooms in a building belonging to a fictious client. 
 
 API | Purpose
 ------------ | -------------
-[https://ssgmobile.github.io/techtest/rooms.json](https://ssgmobile.github.io/techtest/rooms.json) | Returns a list of meeting rooms in a building.
-[https://ssgmobile.github.io/techtest/roomdetail/0001.json](https://ssgmobile.github.io/techtest/roomdetail/0001.json) | Returns the name, location and various facilities offered by room with identifer key = 0001 
-[https://ssgmobile.github.io/techtest/roomdetail/0002.json](https://ssgmobile.github.io/techtest/roomdetail/0002.json) | Returns the name, location and various facilities offered by room with identifer key = 0002
-[https://ssgmobile.github.io/techtest/roomdetail/0003.json](https://ssgmobile.github.io/techtest/roomdetail/0003.json) | Returns the name, location and various facilities offered by room with identifer key = 0003
-[https://ssgmobile.github.io/techtest/roomdetail/0004.json](https://ssgmobile.github.io/techtest/roomdetail/0004.json) | Returns the name, location and various facilities offered by room with identifer key = 0004
+[https://ssgmobile.github.io/api/room/rooms.json](https://ssgmobile.github.io/api/room/rooms.json) | Returns a list of meeting rooms in a building.
+[https://ssgmobile.github.io/api/room/detail/0001.json](https://ssgmobile.github.io/api/room/detail/0001.json) | Returns the name, location and various facilities offered by room with identifer key = 0001 
+[https://ssgmobile.github.io/api/room/detail/0002.json](https://ssgmobile.github.io/api/room/detail/0002.json) | Returns the name, location and various facilities offered by room with identifer key = 0002
+[https://ssgmobile.github.io/api/room/detail/0003.json](https://ssgmobile.github.io/api/room/detail/0003.json) | Returns the name, location and various facilities offered by room with identifer key = 0003
+[https://ssgmobile.github.io/api/room/detail/0004.json](https://ssgmobile.github.io/api/room/detail/0004.json) | Returns the name, location and various facilities offered by room with identifer key = 0004
 
 ### Task requirements
 
