@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+## SmartSpace Global Android Recruitment Test
 
-You can use the [editor on GitHub](https://github.com/ssgmobile/ssgmobile.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Thank you for taking the time to do our technical test. It consists of two parts:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Developing a small Android application.
+- A few technical questions.
 
-### Markdown
+Please submit your work by uploading the relevant ZIP file to <LINK TO UPLOAD>
+Please make this a single zip file named {yourname}-{role-applied-for}.zip containing:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- a single markdown file with the answers to the technical questions
+- one folder containing your Android Studio project & source code.
 
+# Developing a small Android application
+
+Smartspace Global has a set of mock APIs that you will use to get information about a list of Meeting Rooms in a building belonging to a fictious client. 
+
+API | Purpose
+------------ | -------------
+[https://ssgmobile.github.io/techtest/rooms.json](https://ssgmobile.github.io/techtest/rooms.json) | Returns a list of meeting rooms in a building.
+[https://ssgmobile.github.io/techtest/roomdetail/0001.json](https://ssgmobile.github.io/techtest/roomdetail/0001.json) | Returns the name, location and various facilities offered by room with identifer key = 0001 
+[https://ssgmobile.github.io/techtest/roomdetail/0002.json](https://ssgmobile.github.io/techtest/roomdetail/0002.json) | Returns the name, location and various facilities offered by room with identifer key = 0002
+[https://ssgmobile.github.io/techtest/roomdetail/0003.json](https://ssgmobile.github.io/techtest/roomdetail/0003.json) | Returns the name, location and various facilities offered by room with identifer key = 0003
+[https://ssgmobile.github.io/techtest/roomdetail/0004.json](https://ssgmobile.github.io/techtest/roomdetail/0004.json) | Returns the name, location and various facilities offered by room with identifer key = 0004
+
+### Task requirements
+
+Feel free to spend as much or as little time on the exercise as you like as long as the following requirements have been met.
+
+- Please complete the user story below.
+- Your Android Studio Project should compile and run in one step.
+- Feel free to use whatever frameworks / libraries / packages you like.
+- You must include tests
+- Please avoid including artifacts from your local build (such as apk or the bin folder(s)) in your final ZIP file
+
+### User Story
 ```markdown
-Syntax highlighted code block
+**As** an employee looking for a room, **I want to** be able to see a list of rooms **so as to** easily check their details and decide what room I'm looking for. 
+ 
+Acceptance Criteria:
+**Given** I see the list of rooms
+**Then** I can see the friendly name of each room and their seating capacity and their thumbnail image
+**And** the list is alphabetically ordered by the room's friendly name.
+ 
+**Given** I tap on one of the rooms
+**Then** I can see the details of the room, including the main image as an hero image, its friendly name, location, capacity, equipment, features and services
+**And** I can see the images that represent each features and/or service.
+ 
+**Given** I am seeing the details of a room
+**When** I tap back
+**Then** I can see the list of rooms again
 
-# Header 1
-## Header 2
-### Header 3
+### Technical questions
 
-- Bulleted
-- List
+Please answer the following questions in a markdown file called Answers to technical questions.md.
 
-1. Numbered
-2. List
+- What would you add to your solution if you had more time?
+- How would you tackle accessibility in your app?
+- What steps would you take to ensure the display of text, buttons etc remain consistant as the project grows and more team members join the team?
+- How would you track down a performance issue in production? Have you ever had to do this?
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ssgmobile/ssgmobile.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thanks for your time, we look forward to hearing from you!
