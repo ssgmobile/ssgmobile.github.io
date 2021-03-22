@@ -6,6 +6,7 @@ Thank you for taking the time to do our technical test. It consists of two parts
 - [A few technical questions](#technical-questions)
 
 Please submit your work by uploading a single zip file named {yourname}-{android-developer}.zip to [GET UPLOAD LINK FROM MARTIN]().
+
 The zip file should contain:
 - a single markdown file with the answers to the technical questions
 - one folder containing your Android Studio project & source code.
@@ -35,7 +36,7 @@ Try to ensure the following requirements have been met but spend no more than 2 
 ### User Story
 **As** an employee looking for a room, **I want to** be able to see a list of rooms **so as to** easily check their details and decide what room I'm looking for. 
  
-###### Acceptance Criteria:
+#### Acceptance Criteria:
 **Given** I see the list of rooms
 **Then** I can see the friendly name of each room and their seating capacity and their thumbnail image
 **And** the list is alphabetically ordered by the room's friendly name.
