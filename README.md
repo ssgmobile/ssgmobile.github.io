@@ -24,7 +24,7 @@ API | Purpose
 
 ### Task requirements
 
-Feel free to spend as much or as little time on the exercise as you like as long as the following requirements have been met.
+Try to ensure the following requirements have been met but spend no more than 2 hours working on the exercise.
 
 - Please complete the user story below.
 - Your Android Studio Project should compile and run in one step.
