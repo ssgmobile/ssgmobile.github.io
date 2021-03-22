@@ -1,0 +1,36 @@
+{
+   "key":"456",
+   "name":"Meeting Room C3",
+   "heroImageUrl":"https://www.smartspaceglobal.com/img/MeetingRoom3.jpg",
+   "capacity":65,
+   "location":{
+      "region":{
+         "key":"123",
+         "name":"Hong Kong"
+      },
+      "site":{
+         "key":"234",
+         "name":"Hong Kong Exchange Square"
+      },
+      "building":{
+         "key":"456",
+         "name":"Two International Finance Centre"
+      },
+      "floor":{
+         "key":"567",
+         "name":"Floor 12"
+      }
+   },
+   "features":[
+      
+   ],
+   "services":[
+      
+   ],
+   "facilities":[
+      
+   ],
+   "equipment":[
+      
+   ]
+}
