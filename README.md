@@ -33,7 +33,6 @@ Try to ensure the following requirements have been met but spend no more than 2 
 - Please avoid including artifacts from your local build (such as apk or the bin folder(s)) in your final ZIP file
 
 ### User Story
-```markdown
 **As** an employee looking for a room, **I want to** be able to see a list of rooms **so as to** easily check their details and decide what room I'm looking for. 
  
 Acceptance Criteria:
@@ -47,8 +46,7 @@ Acceptance Criteria:
  
 **Given** I am seeing the details of a room
 **When** I tap back
-**Then** I can see the list of rooms again
-```
+**Then** I can see the list of rooms again.
 
 ### Technical questions
 
