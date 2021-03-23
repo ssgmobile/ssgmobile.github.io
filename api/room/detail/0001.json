@@ -24,28 +24,23 @@
    "features":[
       {
          "key":"511",
-         "name":"Blackout Option",
-         "iconUrl":null
+         "name":"Blackout Option"
       },
       {
          "key":"512",
-         "name":"Blinds",
-         "iconUrl":null
+         "name":"Blinds"
       },
       {
          "key":"513",
-         "name":"Folding Wall",
-         "iconUrl":null
+         "name":"Folding Wall"
       },
       {
          "key":"514",
-         "name":"Natural Light",
-         "iconUrl":null
+         "name":"Natural Light"
       },
       {
          "key":"515",
-         "name":"Virtual MR",
-         "iconUrl":null
+         "name":"Virtual MR"
       }
    ],
    "services":[
