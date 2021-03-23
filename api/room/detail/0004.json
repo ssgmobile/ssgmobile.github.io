@@ -41,44 +41,44 @@
       {
          "key":"611",
          "name":"Audio",
-         "iconUrl":null
+         "iconUrl":"https://www.smartspaceglobal.com/img/icons/Audio.png"
       },
       {
          "key":"612",
          "name":"Control Panel",
-         "iconUrl":null
+         "iconUrl":"https://www.smartspaceglobal.com/img/icons/RemoteControl.png"
       },
       {
          "key":"613",
          "name":"Flipchart",
-         "iconUrl":null
+         "iconUrl":"https://www.smartspaceglobal.com/img/icons/Flipchart.png"
       },
       {
          "key":"614",
          "name":"TV Set",
-         "iconUrl":null
+         "iconUrl":"https://www.smartspaceglobal.com/img/icons/TV.png"
       }
    ],
    "equipment":[
       {
          "key":"711",
          "name":"Cisco Monitor",
-         "iconUrl":null
+         "iconUrl":"https://www.smartspaceglobal.com/img/icons/CiscoDisplay.png"
       },
       {
          "key":"712",
          "name":"Conference Calling",
-         "iconUrl":null
+         "iconUrl":"https://www.smartspaceglobal.com/img/icons/VideoConference.png"
       },
       {
          "key":"713",
          "name":"Printer",
-         "iconUrl":null
+         "iconUrl":"https://www.smartspaceglobal.com/img/icons/Printer.png"
       },
       {
          "key":"714",
          "name":"Projector",
-         "iconUrl":null
+         "iconUrl":"https://www.smartspaceglobal.com/img/icons/Projector.png"
       }
    ]
 }
