@@ -34,7 +34,8 @@
    "services":[
       {
          "key":"302",
-         "name":"Catering"
+         "name":"Catering",
+         "iconUrl":"https://www.smartspaceglobal.com/img/icons/Catering.png"
       }
    ],
    "facilities":[
