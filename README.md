@@ -18,14 +18,11 @@ Smartspace Global has a set of mock APIs that you will use to get information ab
 API | Purpose
 ------------ | -------------
 [https://ssgmobile.github.io/api/room/rooms.json](https://ssgmobile.github.io/api/room/rooms.json) | Returns a list of meeting rooms in a building.
-[https://ssgmobile.github.io/api/room/detail/0001.json](https://ssgmobile.github.io/api/room/detail/0001.json) | Returns the name, location and various facilities offered by room with identifer key = 0001 
-[https://ssgmobile.github.io/api/room/detail/0002.json](https://ssgmobile.github.io/api/room/detail/0002.json) | Returns the name, location and various facilities offered by room with identifer key = 0002
-[https://ssgmobile.github.io/api/room/detail/0003.json](https://ssgmobile.github.io/api/room/detail/0003.json) | Returns the name, location and various facilities offered by room with identifer key = 0003
-[https://ssgmobile.github.io/api/room/detail/0004.json](https://ssgmobile.github.io/api/room/detail/0004.json) | Returns the name, location and various facilities offered by room with identifer key = 0004
+[https://ssgmobile.github.io/api/room/detail/<%room_key%>.json](https://ssgmobile.github.io/api/room/detail/<%room_key%>.json) | Returns the name, location and various facilities offered by room with the given key. 
 
 ### Task requirements
 
-Try to ensure the following requirements have been met but spend no more than 2 hours working on the exercise.
+Feel free to spend as much or as little time on the exercise as you like as long as the following requirements have been met.
 
 - Please complete the user story below.
 - Your Android Studio Project should compile and run in one step.
