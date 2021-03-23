@@ -24,18 +24,15 @@
    "features":[
       {
          "key":"513",
-         "name":"Folding Wall",
-         "iconUrl":null
+         "name":"Folding Wall"
       },
       {
          "key":"514",
-         "name":"Natural Light",
-         "iconUrl":null
+         "name":"Natural Light"
       },
       {
          "key":"515",
-         "name":"Virtual MR",
-         "iconUrl":null
+         "name":"Virtual MR"
       }
    ],
    "services":[
