@@ -51,7 +51,6 @@ Feel free to spend as much or as little time on the exercise as you like as long
 Please answer the following questions in a markdown file called Answers to technical questions.md.
 
 - What would you add to your solution if you had more time?
-- How would you tackle accessibility in your app?
 - What steps would you take to ensure the display of text, buttons etc remain consistant as the project grows and more team members join the team?
 - How would you track down a performance issue in production? Have you ever had to do this?
 
