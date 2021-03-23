@@ -18,7 +18,7 @@ Smartspace Global has a set of mock APIs that you will use to get information ab
 API | Purpose
 ------------ | -------------
 [https://ssgmobile.github.io/api/room/rooms.json](https://ssgmobile.github.io/api/room/rooms.json) | Returns a list of meeting rooms in a building.
-[https://ssgmobile.github.io/api/room/detail/<%room_key%>.json](https://ssgmobile.github.io/api/room/detail/<%room_key%>.json) | Returns the name, location and various facilities offered by room with the given key. 
+[https://ssgmobile.github.io/api/room/detail/<%room_key%>.json](https://ssgmobile.github.io/api/room/detail/0001.json) | Returns the name, location and various facilities offered by room with the given key. 
 
 ### Task requirements
 
