@@ -1,11 +1,11 @@
-## SmartSpace Global Android Recruitment Test
+## SmartSpace Global Android Technical Challenge
 
-Thank you for taking the time to do our technical test. It consists of two parts:
+Thank you for taking the time to do our technical challenge. It consists of two parts:
 
 - [Create a small Android application](#create-a-small-android-application)
 - [A few technical questions](#technical-questions)
 
-Please upload your solution to GitHub and send the link to (recruitment@smartspaceglobal.com)
+Please upload your solution to GitHub and send the link to Jeff.Kania@fwi.com
 
 The zip file should contain:
 - a single markdown file with the answers to the technical questions
