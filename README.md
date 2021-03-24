@@ -5,7 +5,7 @@ Thank you for taking the time to do our technical test. It consists of two parts
 - [Create a small Android application](#create-a-small-android-application)
 - [A few technical questions](#technical-questions)
 
-Please submit your work by uploading a single zip file named {yourname}-{android-developer}.zip to [GET UPLOAD LINK FROM MARTIN]().
+Please upload your solution to GitHub and send the link to (recruitment@smartspaceglobal.com)
 
 The zip file should contain:
 - a single markdown file with the answers to the technical questions
