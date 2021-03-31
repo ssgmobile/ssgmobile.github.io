@@ -2,7 +2,7 @@
 
 Thank you for taking the time to do our technical challenge. It consists of two parts:
 
-- [Create a small Android application](#create-a-small-android-application)
+- [Create a small Kotlin Android application](#create-a-small-kotlin-android-application)
 - [A few technical questions](#technical-questions)
 
 Please upload your solution to GitHub and send the link to Jeff.Kania@fwi.com
@@ -11,7 +11,7 @@ The zip file should contain:
 - a single markdown file with the answers to the technical questions
 - one folder containing your Android Studio project & source code.
 
-# Create a small Android application
+# Create a small Kotlin Android application
 
 Smartspace Global has a set of mock APIs that you will use to get information about a list of Meeting Rooms in a building belonging to a fictious client. 
 
@@ -25,7 +25,7 @@ API | Purpose
 Feel free to spend as much or as little time on the exercise as you like as long as the following requirements have been met.
 
 - Please complete the user story below.
-- Your Android Studio Project should compile and run in one step.
+- Your Android Studio Project should use Kotlin and compile & run in one step.
 - Feel free to use whatever frameworks / libraries / packages you like.
 - You must include tests
 - Please avoid including artifacts from your local build (such as apk or the bin folder(s)) in your final ZIP file
