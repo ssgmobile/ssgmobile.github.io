@@ -1,19 +1,25 @@
-## SmartSpace Global Android Technical Challenge
+# Four Winds Interactive (FWI) / SmartSpace Global (SSG) Mobile Technical Challenge
 
-Thank you for taking the time to do our technical challenge. It consists of two parts:
+Thank you for taking the time to do our Mobile Technical Challenge.  
 
-- [Create a small Kotlin Android application](#create-a-small-kotlin-android-application)
-- [A few technical questions](#technical-questions)
+The challenge consists of two parts:  
 
-Please upload your solution to GitHub and send the link to Jeff.Kania@fwi.com
+- [Creating a small demo application](#create-a-small-demo-application)  
+- [Answering a few technical questions](#technical-questions)  
 
-The zip file should contain:
-- a single markdown file with the answers to the technical questions
-- one folder containing your Android Studio project & source code.
+When you're done, please upload your solution to GitHub and send the link to your FWI/SSG contact or recruiter  
 
-# Create a small Kotlin Android application
+The zip file should contain:  
+- a single markdown file (called `answers-to-technical-questions.md`) with the answers to the technical questions  
+- one folder containing your project & source code  
 
-Smartspace Global has a set of mock APIs that you will use to get information about a list of Meeting Rooms in a building belonging to a fictious client. 
+_Note: please avoid including artifacts from your local build (such as apk/ipa/etc) in your final zip file_
+
+Many thanks for your time. We look forward to hearing from you!  
+
+## Create a Small Demo Application
+
+For the purposes of this Mobile Technical Challenge, SSG has created a mock API consisting of two endpoints which return data for a fictitious client.
 
 API | Purpose
 ------------ | -------------
@@ -22,37 +28,40 @@ API | Purpose
 
 ### Task requirements
 
-Feel free to spend as much or as little time on the exercise as you like as long as the following requirements have been met.
+Using the mock API for data, please build a simple demo app that addresses the user story below. You're free to spend as much or as little time on the app as you like, as long as the following requirements are met:  
 
-- Please complete the user story below.
-- Your Android Studio Project should use Kotlin and compile & run in one step.
-- Feel free to use whatever frameworks / libraries / packages you like.
-- You must include tests
-- Please avoid including artifacts from your local build (such as apk or the bin folder(s)) in your final ZIP file
+- The user story is fulfilled
+- For Android candidates, your Android Studio project should use Kotlin  
+- For iOS candidates, your Xcode project should use Swift and/or Swift UI  
+- Your project should compile & run in one step  
+- You must include at least one test  
+
+_Note: You're free to use whatever frameworks/libraries/packages you'd like to complete the task_  
+
 
 ### User Story
 **As** an employee looking for a room, **I want to** be able to see a list of rooms **so as to** easily check their details and decide what room I'm looking for. 
  
-#### Acceptance Criteria:
+### Acceptance Criteria:
 **Given** I see the list of rooms
 **Then** I can see the friendly name of each room and their seating capacity and their thumbnail image
 **And** the list is alphabetically ordered by the room's friendly name.
  
 **Given** I tap on one of the rooms
-**Then** I can see the details of the room, including the main image as an hero image, its friendly name, location, capacity, equipment, features and services
+**Then** I can see the details of the room, including the main image as an hero image, its friendly name, location, capacity, equipment, features, and services
 **And** I can see the icons that represent each facility offered by the room.
  
 **Given** I am seeing the details of a room
 **When** I tap back
 **Then** I can see the list of rooms again.
 
-### Technical questions
+## Technical questions
 
-Please answer the following questions in a markdown file called Answers to technical questions.md.
+Please answer the following questions in a markdown file called `answers-to-technical-questions.md`.
 
 - What would you add to your solution if you had more time?
-- What steps would you take to ensure the display of text, buttons etc remain consistant as the project grows and more team members join the team?
-- How would you track down a performance issue in production? Have you ever had to do this?
+- Did you use any third party libraries to complete the task? If you did, what was the reason for including them?
+- What steps would you take to ensure the UI scales well over different device sizes?
+- What accessibility features should be supported as a minimum in a modern application?
+- Have you ever had to track down a performance issue in a production app? What did you have to do?
 
-
-Thanks for your time, we look forward to hearing from you!
