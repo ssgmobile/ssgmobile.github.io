@@ -30,7 +30,7 @@ API | Purpose
 
 Using the mock API for data, please build a simple demo app that addresses the user story below. You're free to spend as much or as little time on the app as you like, as long as the following requirements are met:  
 
-- The user story is fulfilled
+- The user story and acceptance criteria are fulfilled
 - For Android candidates, your Android Studio project should use Kotlin  
 - For iOS candidates, your Xcode project should use Swift and/or Swift UI  
 - Your project should compile & run in one step  
