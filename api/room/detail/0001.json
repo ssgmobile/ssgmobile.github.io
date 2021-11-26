@@ -10,15 +10,15 @@
       },
       "site":{
          "key":"234",
-         "name":"Hong Kong Exchange Square"
+         "name":"Kowloon Bay Finance Centre"
       },
       "building":{
          "key":"456",
-         "name":"Two International Finance Centre"
+         "name":"Building A"
       },
       "floor":{
          "key":"567",
-         "name":"Floor 12"
+         "name":"Floor 9"
       }
    },
    "features":[
