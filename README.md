@@ -55,7 +55,7 @@ _Note: You're free to use whatever frameworks/libraries/packages you'd like to c
 **When** I tap back
 **Then** I can see the list of rooms again.
 
-## Technical questions
+## Technical Questions
 
 Please answer the following questions in a markdown file called `answers-to-technical-questions.md`.
 
