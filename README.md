@@ -7,7 +7,7 @@ The challenge consists of two parts:
 - [Creating a small demo application](#create-a-small-demo-application)  
 - [Answering a few technical questions](#technical-questions)  
 
-When you're done, please upload your solution in a single zip file to GitHub and send the link to your FWI/SSG contact or recruiter  
+When you are done, please submit your solution in a single zip file via the upload link provided in the initial email sent to you.
 
 The zip file should contain:  
 - a single markdown file (called `answers-to-technical-questions.md`) with the answers to the technical questions  
